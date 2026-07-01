@@ -1,5 +1,11 @@
 # 🤖 Arduino Rover – Autonomous/Remote-Controlled Vehicle
 
+## 📌 Project Status
+**Status:** Arduino rover prototype.  
+This repository contains a rover control sketch and build documentation for a small autonomous or remote-controlled vehicle model.
+
+---
+
 ## 📖 Project Overview  
 This project is an **Arduino-powered rover** designed for exploration and automation tasks.  
 It uses motor drivers and sensors to navigate, detect obstacles, and move in different directions.  
